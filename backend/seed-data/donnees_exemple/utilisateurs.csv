@@ -1,0 +1,29 @@
+id,nom,email,role,service
+1,Hery Rakoto,hery.rakoto@clinique-saint-louis.fr,technicien,Informatique
+2,Sophie Laurent,sophie.laurent@clinique-saint-louis.fr,technicien,Informatique
+3,Karim Benali,karim.benali@clinique-saint-louis.fr,technicien,Informatique
+4,Claire Martin,claire.martin@clinique-saint-louis.fr,responsable,Administration
+5,Julie Moreau,julie.moreau@clinique-saint-louis.fr,employé,Réception
+6,Antoine Petit,antoine.petit@clinique-saint-louis.fr,employé,Réception
+7,Camille Roux,camille.roux@clinique-saint-louis.fr,employé,Réception
+8,Marie Durand,marie.durand@clinique-saint-louis.fr,employé,Urgences
+9,Thomas Bernard,thomas.bernard@clinique-saint-louis.fr,employé,Urgences
+10,Léa Girard,lea.girard@clinique-saint-louis.fr,employé,Urgences
+11,Nicolas Faure,nicolas.faure@clinique-saint-louis.fr,employé,Bloc opératoire
+12,Sarah Lambert,sarah.lambert@clinique-saint-louis.fr,employé,Bloc opératoire
+13,Hugo Fontaine,hugo.fontaine@clinique-saint-louis.fr,employé,Bloc opératoire
+14,Emma Chevalier,emma.chevalier@clinique-saint-louis.fr,employé,Laboratoire
+15,Lucas Mercier,lucas.mercier@clinique-saint-louis.fr,employé,Laboratoire
+16,Inès Blanc,ines.blanc@clinique-saint-louis.fr,employé,Laboratoire
+17,Paul Garnier,paul.garnier@clinique-saint-louis.fr,employé,Imagerie
+18,Chloé Rousseau,chloe.rousseau@clinique-saint-louis.fr,employé,Imagerie
+19,Mathieu Guérin,mathieu.guerin@clinique-saint-louis.fr,employé,Imagerie
+20,Laura Perrin,laura.perrin@clinique-saint-louis.fr,employé,Pharmacie
+21,Julien Morel,julien.morel@clinique-saint-louis.fr,employé,Pharmacie
+22,Manon Henry,manon.henry@clinique-saint-louis.fr,employé,Pharmacie
+23,Pierre Lefèvre,pierre.lefevre@clinique-saint-louis.fr,employé,Administration
+24,Nathalie Dupont,nathalie.dupont@clinique-saint-louis.fr,employé,Administration
+25,Olivier Marchand,olivier.marchand@clinique-saint-louis.fr,employé,Administration
+26,Sandrine Michel,sandrine.michel@clinique-saint-louis.fr,employé,Hospitalisation
+27,David Roy,david.roy@clinique-saint-louis.fr,employé,Hospitalisation
+28,Aurélie Colin,aurelie.colin@clinique-saint-louis.fr,employé,Hospitalisation

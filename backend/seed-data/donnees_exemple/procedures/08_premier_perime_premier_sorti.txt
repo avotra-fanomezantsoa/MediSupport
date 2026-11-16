@@ -1,0 +1,7 @@
+Procédure : la règle du premier périmé, premier sorti
+
+Pour éviter le gaspillage, on utilise toujours en premier le lot dont la date de péremption est la plus proche. C'est la règle du premier périmé, premier sorti.
+
+Au rangement, placez les lots les plus récents derrière et les plus anciens devant. Vérifiez la date de péremption avant chaque utilisation.
+
+Un produit périmé n'est jamais utilisé. Il est retiré du stock et déclaré comme une sortie avec le motif « Péremption ». MediSupport tient compte des dates de péremption dans ses prévisions et signale les produits qui risquent de périmer avant d'être utilisés.

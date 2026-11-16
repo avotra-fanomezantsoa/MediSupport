@@ -1,0 +1,16 @@
+id,nom,unite,seuil_alerte,fournisseur,actif
+1,Gants en nitrile,boîte de 100,48,MediFourni Lyon,oui
+2,Seringues 5 mL,boîte de 100,24,MediFourni Lyon,oui
+3,Masques chirurgicaux,boîte de 50,32,HygiPro,oui
+4,Compresses stériles,paquet de 10,64,MediFourni Lyon,oui
+5,Gel hydroalcoolique,flacon 500 mL,24,HygiPro,oui
+6,Sérum physiologique,poche 500 mL,40,PharmaDistrib,oui
+7,Kits de perfusion,unité,32,PharmaDistrib,oui
+8,Pansements assortis,boîte de 50,12,MediFourni Lyon,oui
+9,Tubes de prélèvement,boîte de 100,32,PharmaDistrib,oui
+10,Bracelets d'identification,boîte de 100,16,MediFourni Lyon,oui
+11,Papier A4,ramette,40,BureauPlus,oui
+12,Cartouches d'encre,unité,10,BureauPlus,oui
+13,Toner imprimante,unité,5,InfoTech Services,oui
+14,Câbles réseau RJ45,unité,4,InfoTech Services,oui
+15,Piles AA,pack de 4,8,BureauPlus,oui

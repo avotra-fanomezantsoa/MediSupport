@@ -1,0 +1,12 @@
+Données d'exemple MediSupport (fictives)
+
+Période simulée : 01/05/2026 au 31/10/2026. Toutes les données sont inventées.
+Les fichiers sont en UTF-8 (ouvrir avec VS Code, ou l'import de données d'Excel).
+
+services.csv, categories.csv, utilisateurs.csv, parametres_sla.csv : référentiels. Les mots de passe ne sont pas inclus : ils seront définis (puis hachés) par le script d'import.
+tickets.csv : environ 400 tickets avec urgence, statut, catégorie, solution. Les liens se font par nom, email ou produit.
+fournisseurs.csv, produits.csv, lots.csv, mouvements_stock.csv : stock et consommation journalière.
+articles_connaissance.csv : 20 articles validés.
+procedures/ : 10 documents de procédures pour l'assistant.
+anomalies_notees.csv : les 5 anomalies volontairement ajoutées. A utiliser seulement pour évaluer la détection, jamais pour la configurer.
+questions_test_assistant.csv : 20 questions avec le document attendu, pour évaluer l'assistant.

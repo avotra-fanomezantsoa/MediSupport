@@ -1,0 +1,10 @@
+Procédure : panne de réseau dans un service
+
+Si tout un service n'a plus de réseau :
+1. Regardez les voyants du commutateur du service. Ne débranchez rien.
+2. Créez un seul ticket urgent au nom du service.
+3. Continuez à travailler avec les fiches papier de secours.
+
+MediSupport fonctionne en mode hors-ligne : vous pouvez créer un ticket sans connexion. Il est enregistré sur l'appareil et envoyé automatiquement dès que le réseau revient. Un bandeau « Hors-ligne » s'affiche en haut de l'écran.
+
+Quand le réseau est rétabli, vérifiez que votre ticket est bien arrivé dans la liste de vos tickets.

@@ -1,0 +1,21 @@
+id,question,document_attendu
+1,Comment réinitialiser mon mot de passe ?,01_reinitialiser_mot_de_passe.txt
+2,Combien d'essais avant que mon compte soit bloqué ?,01_reinitialiser_mot_de_passe.txt
+3,Que faire si le logiciel de dossiers patients affiche une erreur ?,02_logiciel_dossiers_patients.txt
+4,Comment vider le cache de connexion ?,02_logiciel_dossiers_patients.txt
+5,Que faire en attendant la réparation du logiciel de dossiers patients ?,02_logiciel_dossiers_patients.txt
+6,"Mon imprimante est hors ligne, que faire ?",03_imprimer_et_scanner.txt
+7,Comment retirer un bourrage papier ?,03_imprimer_et_scanner.txt
+8,Comment me connecter au Wi-Fi du personnel ?,04_wifi_clinique.txt
+9,Faut-il un ticket par personne si tout le service n'a plus de Wi-Fi ?,04_wifi_clinique.txt
+10,Quel est le délai pour un ticket urgent ?,05_signaler_un_incident_et_delais.txt
+11,Qu'est-ce qu'un ticket de priorité faible ?,05_signaler_un_incident_et_delais.txt
+12,Que faire si tout mon service n'a plus de réseau ?,06_panne_reseau_service.txt
+13,Puis-je créer un ticket sans connexion ?,06_panne_reseau_service.txt
+14,À quoi sert le seuil d'alerte d'un produit ?,07_gestion_du_stock.txt
+15,À quelle fréquence fait-on l'inventaire ?,07_gestion_du_stock.txt
+16,"Qu'est-ce que la règle du premier périmé, premier sorti ?",08_premier_perime_premier_sorti.txt
+17,Que faire d'un produit périmé ?,08_premier_perime_premier_sorti.txt
+18,Comment protéger mes données quand je quitte mon poste ?,09_securite_des_donnees.txt
+19,Puis-je utiliser ma clé USB personnelle ?,09_securite_des_donnees.txt
+20,Comment demander un ordinateur pour une nouvelle arrivante ?,10_demande_de_materiel_nouveau_poste.txt

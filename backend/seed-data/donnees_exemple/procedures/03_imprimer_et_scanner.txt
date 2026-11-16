@@ -1,0 +1,11 @@
+Procédure : imprimer et scanner
+
+Chaque service dispose d'une imprimante réseau. Choisissez toujours l'imprimante de votre service dans la liste.
+
+Imprimante hors ligne : attendez deux minutes, vérifiez que l'imprimante est allumée et que le câble réseau est branché, puis relancez l'impression. Si rien ne change, créez un ticket de catégorie « Imprimantes ».
+
+Bourrage papier : ouvrez les capots indiqués à l'écran, retirez doucement le papier dans le sens du trajet, sans tirer en force, puis refermez. Vérifiez que le type de papier est correct.
+
+Toner ou cartouche vide : ne remplacez pas le toner vous-même. Créez un ticket : le technicien le remplace depuis le stock et déclare la sortie.
+
+Pour scanner, utilisez la fonction scan de l'imprimante du service ; le document arrive dans votre dossier partagé.

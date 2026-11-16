@@ -1,0 +1,7 @@
+Procédure : sécurité des données
+
+Quand vous quittez votre poste, verrouillez votre session avec les touches Windows et L. N'utilisez pas de clé USB personnelle : elle peut transmettre des virus. Le service informatique peut vous prêter une clé contrôlée.
+
+Ne partagez jamais votre mot de passe. Si un message vous demande vos identifiants ou un lien suspect, ne cliquez pas et signalez-le par un ticket.
+
+Les données sont sauvegardées automatiquement chaque nuit sur le serveur de la clinique. Enregistrez vos documents sur le dossier partagé du service, pas sur le bureau de votre poste.

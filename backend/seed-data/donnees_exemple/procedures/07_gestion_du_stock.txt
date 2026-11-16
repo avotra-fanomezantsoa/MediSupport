@@ -1,0 +1,9 @@
+Procédure : gestion du stock de consommables
+
+Chaque produit a un seuil d'alerte. Quand le stock passe sous ce seuil, MediSupport crée automatiquement un ticket de réapprovisionnement et prévient le responsable. Le seuil sert donc à commander avant la rupture, en tenant compte du délai de livraison du fournisseur.
+
+Chaque livraison est enregistrée comme une entrée, avec la date de péremption. Chaque consommation est enregistrée comme une sortie, avec le service qui l'a utilisée.
+
+Un inventaire est fait une fois par mois : le responsable compare le stock affiché au stock réel et enregistre une correction en cas d'écart.
+
+La quantité d'un produit ne peut jamais devenir négative : une sortie trop grande est refusée.

@@ -1,0 +1,7 @@
+Procédure : se connecter au Wi-Fi de la clinique
+
+Deux réseaux existent : « CLINIQUE-STAFF » pour le personnel et « CLINIQUE-VISITEURS » pour les visiteurs. Le mot de passe du réseau du personnel est donné par le service informatique ; ne le notez pas sur un papier visible.
+
+Si le Wi-Fi ne fonctionne plus sur votre appareil : oubliez le réseau dans les paramètres Wi-Fi, puis reconnectez-vous en saisissant à nouveau le mot de passe.
+
+Si plusieurs collègues du même service n'ont plus de Wi-Fi, ne créez pas un ticket par personne : un seul ticket au nom du service, avec l'urgence « urgente », suffit. La borne du service est probablement en panne.

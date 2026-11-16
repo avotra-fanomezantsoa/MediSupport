@@ -1,0 +1,6 @@
+id,nom,telephone,email,delai_livraison_jours
+1,MediFourni Lyon,01 99 00 00 10,contact@medifourni-lyon.example,3
+2,PharmaDistrib,01 99 00 00 11,contact@pharmadistrib.example,2
+3,BureauPlus,01 99 00 00 12,contact@bureauplus.example,4
+4,InfoTech Services,01 99 00 00 13,contact@infotech-services.example,5
+5,HygiPro,01 99 00 00 14,contact@hygipro.example,3

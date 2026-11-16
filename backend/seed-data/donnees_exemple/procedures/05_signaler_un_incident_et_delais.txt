@@ -1,0 +1,10 @@
+Procédure : signaler un incident et connaître les délais
+
+Tout problème informatique se signale par un ticket dans MediSupport. Décrivez précisément ce qui ne marche pas, depuis quand, et sur quel poste.
+
+Les niveaux d'urgence :
+- Urgente : le problème bloque les soins ou la sécurité des patients. Délai de traitement : 2 heures.
+- Normale : le problème gêne le travail mais on peut continuer autrement. Délai : 24 heures.
+- Faible : une demande ou un confort (installation d'un logiciel, nouveau matériel). Délai : 72 heures.
+
+Un ticket qui dépasse son délai passe automatiquement en retard et remonte au responsable. Vous suivez l'état de votre ticket (ouvert, en cours, résolu) et vous confirmez la résolution une fois le problème réglé.

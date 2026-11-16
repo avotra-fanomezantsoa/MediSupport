@@ -1,0 +1,10 @@
+Procédure : le logiciel de dossiers patients affiche une erreur
+
+Objectif : retrouver l'accès aux dossiers sans perdre de temps.
+
+1. Fermez complètement le logiciel, y compris dans la barre des tâches.
+2. Videz le cache de connexion : menu Options, puis Vider le cache de connexion.
+3. Relancez le logiciel. Si une mise à jour est proposée, acceptez-la.
+4. Si l'erreur persiste, créez un ticket d'urgence de catégorie « Logiciels », car l'accès aux dossiers touche les soins.
+
+En attendant la réparation, utilisez la procédure papier de secours : notez les informations sur la fiche papier du service et saisissez-les dans le logiciel dès que l'accès est rétabli.

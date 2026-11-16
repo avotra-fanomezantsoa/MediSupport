@@ -1,0 +1,7 @@
+Procédure : demande de matériel ou de nouveau poste
+
+Pour un nouvel ordinateur ou un nouveau collaborateur, créez un ticket de priorité faible. La demande doit être validée par le responsable du service.
+
+Le délai de préparation est de 3 jours ouvrés. Pour une nouvelle arrivante, indiquez sa date d'arrivée, son service et les logiciels dont elle a besoin : le technicien crée son compte, prépare le poste et remet un mot de passe temporaire.
+
+Seuls les logiciels de la liste approuvée sont installés. Pour un autre logiciel, il faut l'accord du responsable du service.

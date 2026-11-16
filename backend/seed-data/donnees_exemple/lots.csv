@@ -1,0 +1,88 @@
+id,produit,quantite_recue,quantite_restante,date_reception,date_peremption
+1,Gants en nitrile,150,0,2026-04-15,2028-05-11
+2,Gants en nitrile,180,0,2026-05-21,2028-05-09
+3,Gants en nitrile,180,0,2026-06-19,2028-07-09
+4,Gants en nitrile,180,0,2026-07-19,2029-02-13
+5,Gants en nitrile,180,0,2026-08-17,2028-11-25
+6,Gants en nitrile,180,36,2026-09-19,2029-03-14
+7,Gants en nitrile,180,106,2026-10-19,2029-02-08
+8,Seringues 5 mL,75,0,2026-04-15,2028-11-19
+9,Seringues 5 mL,90,0,2026-05-24,2029-08-09
+10,Seringues 5 mL,90,0,2026-06-23,2029-02-01
+11,Seringues 5 mL,90,0,2026-07-21,2029-06-11
+12,Seringues 5 mL,90,0,2026-08-24,2029-04-09
+13,Seringues 5 mL,90,21,2026-09-22,2029-09-26
+14,Seringues 5 mL,90,48,2026-10-19,2029-04-18
+15,Masques chirurgicaux,100,0,2026-04-15,2028-01-15
+16,Masques chirurgicaux,120,0,2026-05-19,2028-07-19
+17,Masques chirurgicaux,120,0,2026-06-20,2028-04-12
+18,Masques chirurgicaux,120,13,2026-07-20,2028-11-14
+19,Masques chirurgicaux,120,0,2026-08-22,2028-09-27
+20,Masques chirurgicaux,120,6,2026-09-12,2028-10-18
+21,Masques chirurgicaux,120,20,2026-10-10,2028-08-21
+22,Compresses stériles,200,0,2026-04-15,2028-05-19
+23,Compresses stériles,240,0,2026-05-23,2028-01-29
+24,Compresses stériles,240,0,2026-06-19,2028-03-16
+25,Compresses stériles,240,0,2026-07-24,2028-05-25
+26,Compresses stériles,240,22,2026-08-22,2028-12-18
+27,Compresses stériles,240,0,2026-09-24,2028-09-25
+28,Compresses stériles,240,180,2026-10-24,2028-11-04
+29,Gel hydroalcoolique,75,0,2026-04-15,2027-08-31
+30,Gel hydroalcoolique,90,0,2026-05-23,2027-11-02
+31,Gel hydroalcoolique,90,0,2026-06-22,2027-12-02
+32,Gel hydroalcoolique,90,0,2026-07-25,2028-01-23
+33,Gel hydroalcoolique,90,0,2026-08-22,2027-12-29
+34,Gel hydroalcoolique,90,15,2026-09-23,2028-02-18
+35,Gel hydroalcoolique,90,67,2026-10-22,2027-12-16
+36,Sérum physiologique,125,0,2026-04-15,2027-05-23
+37,Sérum physiologique,150,0,2026-05-24,2027-07-19
+38,Sérum physiologique,150,0,2026-06-27,2027-11-01
+39,Sérum physiologique,150,0,2026-07-26,2027-06-21
+40,Sérum physiologique,150,0,2026-08-30,2027-10-19
+41,Sérum physiologique,150,21,2026-10-01,2027-12-01
+42,Sérum physiologique,150,150,2026-10-31,2028-01-01
+43,Kits de perfusion,100,0,2026-04-15,2027-12-27
+44,Kits de perfusion,120,0,2026-05-23,2027-10-08
+45,Kits de perfusion,120,0,2026-06-24,2028-07-14
+46,Kits de perfusion,120,0,2026-07-21,2028-04-08
+47,Kits de perfusion,120,0,2026-08-22,2028-07-15
+48,Kits de perfusion,120,0,2026-09-20,2028-06-26
+49,Kits de perfusion,120,110,2026-10-24,2028-08-10
+50,Pansements assortis,38,0,2026-04-15,2026-07-31
+51,Pansements assortis,135,0,2026-05-26,2026-08-25
+52,Pansements assortis,135,43,2026-08-28,2026-12-19
+53,Tubes de prélèvement,100,0,2026-04-15,2027-01-26
+54,Tubes de prélèvement,120,0,2026-05-26,2027-02-26
+55,Tubes de prélèvement,120,0,2026-06-26,2027-01-25
+56,Tubes de prélèvement,120,0,2026-07-26,2027-03-02
+57,Tubes de prélèvement,120,24,2026-08-24,2027-05-16
+58,Tubes de prélèvement,120,6,2026-09-29,2027-04-22
+59,Bracelets d'identification,50,0,2026-04-15,
+60,Bracelets d'identification,60,0,2026-05-28,
+61,Bracelets d'identification,60,0,2026-06-27,
+62,Bracelets d'identification,60,0,2026-07-24,
+63,Bracelets d'identification,60,0,2026-08-23,
+64,Bracelets d'identification,60,3,2026-09-26,
+65,Bracelets d'identification,60,60,2026-10-28,
+66,Papier A4,125,0,2026-04-15,
+67,Papier A4,150,0,2026-05-27,
+68,Papier A4,150,0,2026-07-10,
+69,Papier A4,150,0,2026-08-10,
+70,Papier A4,150,0,2026-09-14,
+71,Papier A4,150,91,2026-10-13,
+72,Cartouches d'encre,30,0,2026-04-15,
+73,Cartouches d'encre,54,0,2026-05-31,
+74,Cartouches d'encre,54,0,2026-07-21,
+75,Cartouches d'encre,54,14,2026-09-19,
+76,Toner imprimante,15,0,2026-04-15,
+77,Toner imprimante,36,0,2026-05-27,
+78,Toner imprimante,36,0,2026-08-03,
+79,Toner imprimante,36,36,2026-10-18,
+80,Câbles réseau RJ45,13,0,2026-04-15,
+81,Câbles réseau RJ45,30,0,2026-05-21,
+82,Câbles réseau RJ45,30,0,2026-07-20,
+83,Câbles réseau RJ45,30,8,2026-09-09,
+84,Piles AA,25,0,2026-04-15,
+85,Piles AA,45,0,2026-05-29,
+86,Piles AA,45,0,2026-07-14,
+87,Piles AA,45,11,2026-09-01,

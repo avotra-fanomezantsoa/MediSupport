@@ -1,0 +1,6 @@
+id,type,date_debut,date_fin,cible,description
+1,pannes,2026-08-18,2026-08-18,Laboratoire / Réseau et Wifi,"18 tickets en une matinée (borne Wi-Fi en panne), alors que ce service en reçoit moins d'un par jour"
+2,pannes,2026-09-23,2026-09-23,Réception / Imprimantes,10 tickets d'imprimante en une matinée (serveur d'impression)
+3,stock,2026-07-14,2026-07-14,Gants en nitrile,30 boîtes consommées en une journée au lieu de 6 environ
+4,stock,2026-08-25,2026-08-27,Masques chirurgicaux,14 boîtes par jour pendant 3 jours au lieu de 4 environ
+5,stock,2026-10-05,2026-10-05,Papier A4,45 ramettes sorties en une journée au lieu de 5 environ
