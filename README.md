@@ -58,6 +58,3 @@ MediSupport/
 
 
 
-## Auteur
-
-FANOMEZANTSOA Avotriniaina Dinah, Génie Logiciel, École Supérieure Polytechnique d'Antsirabe.
